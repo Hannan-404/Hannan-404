@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hannan-404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Hannan-404" /> </pu>
 </i></b></h3>
 <h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="170">
 </i></b></h3>
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Hannan-404/Hannan-404/main/Screenshot_2022-05-11-22-44-58-79.png" width="25">
