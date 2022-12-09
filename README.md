@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hannan-404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Hannan-404" /> </pu>
 </i></b></h3>
 
-<h2><img width="25" src="https://github.com/Dark-Cyber-07/Dark-Cyber-07/blob/main/assets/icons/icon-skills.png" /><i>PythOn Beginner*</i></h2>
+<h2><img " /><i>PythOn Beginner*</i></h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
